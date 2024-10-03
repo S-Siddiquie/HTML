@@ -1,0 +1,39 @@
+*{
+    font-family: Montserrat;
+    margin: 0px;
+}
+h2{
+    text-align: center;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+.navbar a:hover{
+    color: black;
+    background-color: aqua;
+}
+.navbar a{
+     text-decoration: none;
+     color: white;
+     text-align: center;
+     display: block;
+     margin: 13px 13px;
+     /* padding: 16px 16px; */
+
+}
+.navbar ul{
+    list-style: none; 
+    background-color: black;
+    overflow: hidden;
+
+}
+.navbar li{
+    float: left;
+}
+.heading{
+    font-weight: 600px;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
